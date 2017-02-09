@@ -11,7 +11,7 @@
 Для создания библиотеки вводим:
 ```
 git clone git@github.com:TuMePJlaH/EiveNeuralNetwork.git
-cd eiveneuralnetwork
+cd EiveNeuralNetwork
 make
 ```
 По окончанию сборки в корневом каталоге появится файл libeivennetwork.so.
