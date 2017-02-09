@@ -10,7 +10,7 @@
 
 Для создания библиотеки вводим:
 ```
-git clone git@github.com:TuMePJlaH/EiveNeuralNetwork.git
+git clone https://github.com/TuMePJlaH/EiveNeuralNetwork.git
 cd EiveNeuralNetwork
 make
 ```
