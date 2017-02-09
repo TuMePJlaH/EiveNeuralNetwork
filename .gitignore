@@ -1,0 +1,8 @@
+*.enn
+probe/binary
+probe/t10k-images-idx3-ubyte
+probe/t10k-labels-idx1-ubyte
+probe/train-images-idx3-ubyte
+probe/train-labels-idx1-ubyte
+libeivennetwork.so
+*.o
